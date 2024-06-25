@@ -7,7 +7,7 @@
   - IEC 31010:2019  Risk management -- Risk assessment techniques
   - ISO Guide 73:2009  Risk management – Vocabulary
 - 3.我國
-  - 身分鑑別與存取控制參考指引v2.0_1111231
+  - 共通規範|資通系統風險評鑑參考指引(修訂)v4.1_1101231
     - https://www.nics.nat.gov.tw/cybersecurity_resources/reference_guide/
   - [行政院及所屬各機關風險管理及危機處理作業手冊](https://www.ndc.gov.tw/Content_List.aspx?n=47CBA512BC0478E9)
     - (Handbook for Risk Management and Crisis Handling of the Executive Yuan and affiliated agencies)
